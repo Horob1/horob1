@@ -1,3 +1,7 @@
+# Xin chào! :wave::smiley: 🐶
+![Visitor Count](https://profile-counter.glitch.me/{Horob1}/count.svg)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
 <a href="#" target="_blank">
   <img src="svg/horob1.svg" width="1200" alt="horob1-official" />
 </a>
