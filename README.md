@@ -1,5 +1,4 @@
 # Xin chào! :wave::smiley: 🐶
-![Visitor Count](https://profile-counter.glitch.me/{Horob1}/count.svg)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <a href="#" target="_blank">
@@ -57,9 +56,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="" target="blank">
-    <img width="90" height="90"  style="border-radius: 4px;" src="./avatar.jpg" alt="horob1-blog" />
-  </a>
  <a href="https://www.facebook.com/nta.2410" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
@@ -68,9 +64,6 @@
   </a>
   <a href="mailto:nguyentheanh24102003@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
-  </a>
-  <a href="" target="blank">
-    <img width="90" height="90"  style="border-radius: 4px;" src="./avatar.jpg" alt="horob1-blog" />
   </a>
 </div>
 
