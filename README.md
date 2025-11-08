@@ -1,5 +1,4 @@
 # Xin chào! :wave::smiley: 🐶
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <a href="#" target="_blank">
   <img src="svg/horob1.svg" width="1200" alt="horob1-official" />
@@ -42,30 +41,14 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" title="Horob1">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horob1&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=horob1&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
-</div>
 
-<br>
-<h2 align="center">🐶 Where to find me 🐶</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
- <a href="https://www.facebook.com/nta.2410" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
-  </a>
-  <a href="https://www.youtube.com/@Horob1" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="youtube" />
-  </a>
-  <a href="mailto:nguyentheanh24102003@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horob1&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=horob1&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=horob1&theme=gruvbox&hide_border=false)
+
+![](https://komarev.com/ghpvc/?username=horob1&style=for-the-badge)
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
