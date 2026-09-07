@@ -6,11 +6,7 @@
 
 <img src="svg/title-stats.svg" width="1200" alt="github stats" />
 
-<!-- LIVE github stats — verified 2026-09-07: streak-stats + summary-cards còn sống (tokyonight). github-readme-stats.vercel.app hiện 503 nên không dùng. -->
-<a href="https://github.com/horob1" target="_blank">
-  <img src="https://streak-stats.demolab.com?user=horob1&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=6" width="1200" alt="streak stats — live" />
-</a>
-
+<!-- LIVE github stats — 4 cards summary-cards (tokyonight) còn sống, đã ẩn streak + productive-time -->
 <table>
 <tr>
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=horob1&amp;theme=tokyonight" alt="profile details — live" /></td>
@@ -21,8 +17,6 @@
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=horob1&amp;theme=tokyonight" alt="most commit language — live" /></td>
 </tr>
 </table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=horob1&amp;theme=tokyonight&amp;utcOffset=7" width="850" alt="productive time — live" />
 
 </div>
 
